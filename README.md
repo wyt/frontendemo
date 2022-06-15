@@ -32,4 +32,7 @@ $ npm i sass
 
 ## 安装配置vue-router3 https://v3.router.vuejs.org/zh/installation.html
 $ npm install vue-router@3 
+
+## 安装配置element-ui https://element.eleme.cn/#/zh-CN/component/installation
+$ npm i element-ui -S
 ```
