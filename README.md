@@ -29,6 +29,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ```shell script
 ## 安装sass https://www.npmjs.com/package/sass
 $ npm i sass
+## sass-loader
+$ npm install -D sass-loader@7
 
 ## 安装配置vue-router3 https://v3.router.vuejs.org/zh/installation.html
 $ npm install vue-router@3 
