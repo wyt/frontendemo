@@ -40,6 +40,9 @@ $ npm i element-ui -S
 
 ## 安装axios
 $ npm install axios
+
+## 安装mockjs
+$ npm i mockjs
 ```
 
 ### REF
