@@ -37,6 +37,9 @@ $ npm install vue-router@3
 
 ## 安装配置element-ui https://element.eleme.cn/#/zh-CN/component/installation
 $ npm i element-ui -S
+
+## 安装axios
+$ npm install axios
 ```
 
 ### REF
